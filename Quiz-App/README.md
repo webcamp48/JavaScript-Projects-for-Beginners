@@ -23,3 +23,11 @@ JavaScript: Implements the quiz functionality, including timer, scoring, and fee
 ├── styles.css        # The CSS file for styling the application <br>
 ├── main.js         # The JavaScript file for the app's functionality <br>
 └── README.md         # Project description and instructions <br>
+
+
+
+<h2>Contact Me / Follow Me</h2>
+FaceBook : https://www.facebook.com/aliofficial48 <br>
+Instagram : https://www.instagram.com/ali_official_48/ <br>
+Linkedin : https://www.linkedin.com/in/muhammad-ali-634b54257/ <br>
+Youtube Channel : https://youtube.com/@techcamp48?si=z7GPTBKvzijqtPWP
