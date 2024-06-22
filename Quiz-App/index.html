@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz App</title>
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" crossorigin="anonymous" />
+
+    <!-- Style -->
+    <link rel="stylesheet" href="./style.css">
+</head>
+<body>
+    <section class="app">
+        <div class="bar"></div>
+       
+        <h1>Quiz App</h1>
+        <button id="start-quiz">Start Quiz</button>
+        <div class="quiz">
+            <h2 id="question">01. Question</h2>
+            <div id="answer-buttons">
+                <button class="btn correct">answer 1</button>
+                <button class="btn">answer 2</button>
+                <button class="btn">answer 3</button>
+                <button class="btn">answer 4</button>
+                <!-- Answer buttons will be added dynamically here -->
+            </div>
+            <button id="next-btn">Next</button>
+            <button id="reset-btn">Reset</button>
+
+            <footer class="footer_div">
+                <div id="timer">02:00</div>
+                <div id="question-index">1/7 Question</div>
+            </footer>
+        </div>
+    </section>
+    <script src="./main.js"></script>
+</body>
+</html>
