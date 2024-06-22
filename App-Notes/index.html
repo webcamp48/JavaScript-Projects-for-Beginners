@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>App Notes</title>
+    <meta name="description" content="This is a Notes App Project using HTML, CSS, JavaScript.">
+    <meta name="keywords" content="app notes, javascript, js project">
+
+    <!-- refesh page after every 5 sec -->
+    <!-- <meta http-equiv="refresh" content="5"> -->
+
+    <!-- style -->
+    <link rel="stylesheet" href="style.css">
+
+    <!-- Iconscout Link For Icons -->
+    <link rel="stylesheet" href="https://unicons.iconscout.com/release/v4.0.0/css/line.css">
+</head>
+
+<body>
+    <div class="popup-box">
+        <div class="popup">
+            <div class="content">
+                <header>
+                    <p>Add a New Note</p>
+                    <i class="uil uil-times"></i>
+                </header>
+                <form action="">
+                    <div class="row title">
+                        <label for="title">Title</label>
+                        <input type="text" id="title">
+                    </div>
+                    <div class="row desc">
+                        <label for="desc">Description</label>
+                        <textarea name="" id="desc"></textarea>
+                    </div>
+                    <button id="add-notes">Add Note</button>
+                </form>
+            </div>
+        </div>
+    </div>
+
+
+    <div class="wrapper">
+        <ul class="noteList">
+            <li class="add-box">
+                <div class="icon"><i class="uil uil-plus"></i></div>
+                <p>Add New Notes</p>
+            </li>
+        </ul>
+
+    </div>
+    <script src="main.js" defer></script>
+    <noscript>Your Browers Not Supported JavaScript.</noscript>
+</body>
+
+</html>
