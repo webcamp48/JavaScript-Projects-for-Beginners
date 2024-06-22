@@ -19,12 +19,12 @@ JavaScript: Implements the functionality and interactivity of the app.
 
 <h2> Project Structure</h2>
 
-├── index.html        # The main HTML file
-├── styles.css        # The CSS file for styling the application
-├── main.js         # The JavaScript file for the app's functionality
-└── README.md         # Project description and instructions
+├── index.html        # The main HTML file <br>
+├── styles.css        # The CSS file for styling the application <br>
+├── main.js         # The JavaScript file for the app's functionality <br>
+└── README.md         # Project description and instructions <br>
 
-<h2>Contact me:</h2>
-FaceBook : https://www.facebook.com/aliofficial48
-Instagram : https://www.instagram.com/ali_official_48/
-Linkedin : https://www.linkedin.com/in/muhammad-ali-634b54257/
+<h2>Contact Me / Follow Me</h2>
+FaceBook : https://www.facebook.com/aliofficial48 <br>
+Instagram : https://www.instagram.com/ali_official_48/ <br>
+Linkedin : https://www.linkedin.com/in/muhammad-ali-634b54257/ <br>
