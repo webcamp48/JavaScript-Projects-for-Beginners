@@ -12,9 +12,9 @@ Responsive Design: The app is designed to work seamlessly on various devices, in
 Local Storage: Notes are saved locally on the user's device, ensuring that data persists across sessions without needing a backend server.
 
 <h2>Technologies Used<h2>
-HTML: Provides the structure of the web pages.
-CSS: Styles the application for an aesthetically pleasing user experience.
-JavaScript: Implements the functionality and interactivity of the app.
+HTML: Provides the structure of the web pages. <br>
+CSS: Styles the application for an aesthetically pleasing user experience. <br>
+JavaScript: Implements the functionality and interactivity of the app. <br>
 
 
 <h2> Project Structure</h2>
